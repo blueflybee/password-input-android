@@ -1,4 +1,4 @@
-package com.blueflybee.library;
+package com.blueflybee.passowrdinputlib;
 
 import android.R.integer;
 import android.annotation.SuppressLint;
@@ -10,6 +10,8 @@ import android.graphics.Paint;
 import android.graphics.RectF;
 import android.util.AttributeSet;
 import android.widget.EditText;
+
+import com.blueflybee.passowrdinputlib.R;
 
 @SuppressLint("DrawAllocation")
 public class PasswordInputView extends EditText{

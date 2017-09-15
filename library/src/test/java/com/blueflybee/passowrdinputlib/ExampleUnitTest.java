@@ -1,4 +1,4 @@
-package com.blueflybee.library;
+package com.blueflybee.passowrdinputlib;
 
 import org.junit.Test;
 

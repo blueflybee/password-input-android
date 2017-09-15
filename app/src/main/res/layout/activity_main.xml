@@ -10,7 +10,7 @@
     tools:context=".MainActivity"
     android:background="@color/color_white">
 
-    <com.blueflybee.library.PasswordInputView
+    <com.blueflybee.passowrdinputlib.PasswordInputView
         android:id="@+id/password_view"
         android:layout_width="match_parent"
         android:layout_height="50dp"

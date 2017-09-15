@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 
-          package="com.blueflybee.library"
+          package="com.blueflybee.passowrdinputlib"
 >
 
     <application android:allowBackup="true"

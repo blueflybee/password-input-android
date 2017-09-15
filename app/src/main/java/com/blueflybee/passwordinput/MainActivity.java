@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.widget.Toast;
 
-import com.blueflybee.library.PasswordInputView;
+import com.blueflybee.passowrdinputlib.PasswordInputView;
 
 public class MainActivity extends AppCompatActivity implements PasswordInputView.OnFinishListener {
 
